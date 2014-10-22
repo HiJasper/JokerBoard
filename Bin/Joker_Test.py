@@ -2,7 +2,7 @@
 # encoding: utf-8
 '''
 	Version  1.0
-	Date	 2014/08/29
+	Date	 2014/08/300
 '''
 import serial
 import os
